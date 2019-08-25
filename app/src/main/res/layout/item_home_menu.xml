@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dasu.activityanimationdemo.ui.home.HomeContentView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hcv_item_home_menu"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:clipToPadding="false"
+    android:clipChildren="false"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+</com.dasu.activityanimationdemo.ui.home.HomeContentView>
